@@ -4,3 +4,5 @@ As you work through this exercise, write down anything that you needed to look u
 
 - Creating String array
 - Creating a float
+- Creating an ArrayList
+- Replacing a value in a ArrayList
